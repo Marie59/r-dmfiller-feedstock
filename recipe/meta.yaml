@@ -18,10 +18,6 @@ build:
     - lib/
   
 requirements:
-  build:
-    - r-base
-    - r-devtools
-    - r-roxygen2
   host:
     - r-base
     - r-ncdf4
