@@ -16,8 +16,8 @@ build:
   rpaths:
     - lib/R/lib/
     - lib/
-  skip: true
-
+  skip: true # win
+  
 requirements:
   build:
     - r-base
